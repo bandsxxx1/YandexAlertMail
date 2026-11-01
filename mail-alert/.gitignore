@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+
+# локальные данные (на всякий случай; обычно лежат в домашней папке, а не здесь)
+mail_alert_settings.json
+mail_alert_state.json
+*.log
+mail_alert_hang.txt
+*.tmp
+.mypy_cache/
